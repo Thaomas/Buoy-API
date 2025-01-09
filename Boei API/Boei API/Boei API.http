@@ -1,0 +1,6 @@
+@Boei_API_HostAddress = http://localhost:5163
+
+GET {{Boei_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
